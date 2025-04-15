@@ -1,6 +1,6 @@
 - 👋 Hola, me llamo Susana, alias ihunivers
-- 👀 estoy interesada en el mundo de la programacion, desarrollo app y web.
-- 🌱 constantemente estoy aprendiendo, repasando los lenguajes de programación, y practicando ahora; estoy poniendo el foco en Python y Django, he tocado JavaScript, css.
+- 👀 Estoy interesada en el mundo de la programacion, desarrollo app y web.
+- 🌱 Constantemente estoy aprendiendo, repasando los lenguajes de programación y practicando. Ahora estoy poniendo el foco en Python y Django, he tocado JavaScript, css.
 - Este mundo de programación es un constante aprendizaje y actualización, me motiva porque se asemeja al juego de rompecabezas lo cual me entretien. El tiempo vuela cuando mi atencion esta aqui.
 - 💞️ 
 - 📫 susanadevprog@gmail.com
