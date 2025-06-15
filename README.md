@@ -3,7 +3,7 @@
 - 🌱 Constantemente estoy, actualizando, repasando los lenguajes de programación y practicas con HTML, CSS, JS, PHP, Mysql, Python y el framework Django, bootstrap, tailwind entre otros.
 
 - 💞️ 
-- 📫 susanadevprog@gmail.com
+- 📫
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
