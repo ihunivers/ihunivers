@@ -1,4 +1,4 @@
-- 👋 Hola, me llamo Susana, alias ihunivers
+- 👋 Hola, me llamo Susana.
 - 👀 Estoy interesada en el mundo de la programacion, desarrollo app y web.
 - 🌱 Constantemente estoy, actualizando, repasando los lenguajes de programación y practicas con HTML, CSS, JS, PHP, Mysql, Python y el framework Django, bootstrap, tailwind entre otros.
 
